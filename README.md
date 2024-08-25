@@ -10,3 +10,6 @@ KOPIS 날씨 빅데이터 분석, 안개 발생 여부 진단 모델 개발
 3. 모델 평가
 
 ![사용 데이터](https://github.com/user-attachments/assets/2a8c547a-6ac4-421d-98ea-657d9ee14db0)
+
+
+![모델 예측 결과](https://github.com/user-attachments/assets/5587b150-6e5a-454b-9c32-a88a1b09730c)
